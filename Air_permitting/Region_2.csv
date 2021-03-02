@@ -1,0 +1,239 @@
+FACILITY_NAME,COUNTY_FIPS,COUNTY,ZIP,NAICS,SIC,Description,REPORTING_YEAR,UNIT_NAME,FUEL_TYPE,FUEL_QUANTITY,FUEL_QUANTITY_UOM,Maxmum gross heat input,Unit
+STEINWAY & SONS,,,11105,,3931,,2017,FST-600,No. 2 fuel oil and natural gas,,,24.2,MMBtu/hr
+STEINWAY & SONS,,,11105,,3931,,2017,"Cleaver Brooks, SB600-600",No. 2 fuel oil and natural gas,,,25.2,MMBtu/hr
+CHEMPRENE INC,,,12508,,3052,,2016,00B01,natural gas or No.4 fuel oil,,,20.92,MMBtu/hr
+CHEMPRENE INC,,,12508,,3052,,2016,00B02,natural gas or No.4 fuel oil,,,20.92,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+GLOBALFOUNDRIES US 2 LLC,,,12533,,3471,,2017,,natural gas,,,72,MMBtu/hr
+METAL CONTAINER CORP,,,12553,,3411,,2016,BLR01,natural gas,,,12.55,MMBtu/hr
+METAL CONTAINER CORP,,,12553,,3411,,2016,BLR02,natural gas,,,12.55,MMBtu/hr
+GLOBAL COMPANIES LLC,,,12553,,2999,,2015,,oil,,,0.595,MMBtu/hr
+REVERE SMELTING & REFINING CORP,,,10941,,3341,,2014,4-BOILR,natural gas,,,12.5,MMBtu/hr
+BASF CORP,,,10566,,2816,,2012,boiler #3,natural gas,,,12.5,MMBtu/hr
+BASF CORP,,,10566,,2816,,2012,Boiler #2,natural gas,,,12.6,MMBtu/hr
+BASF CORP,,,10566,,2816,,2012,Boiler #1,natural gas,,,25.1,MMBtu/hr
+AMERICAN SUGAR REFINING INC,,,10705,,2062,,2010,BOILER #3,natural gas,,,165,MMBtu/hr
+AMERICAN SUGAR REFINING INC,,,10705,,2062,,2010,BOILER #4,natural gas,,,164,MMBtu/hr
+INTERNATIONAL BUSINESS MACHINES CORPORATION,,,10598,,3571,,2018,,No.6 oil,,,25,MMBtu/hr
+INTERNATIONAL BUSINESS MACHINES CORPORATION,,,10598,,3571,,2018,,No.6 oil,,,25,MMBtu/hr
+INTERNATIONAL BUSINESS MACHINES CORPORATION,,,10598,,3571,,2018,,No.6 oil,,,25,MMBtu/hr
+Friesland Campina Ingredients North America Inc,,,13753,,2023,,2016,,natural gas,,,16.738,MMBtu/hr
+Friesland Campina Ingredients North America Inc,,,13753,,2023,,2016,,natural gas,,,33.475,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12345,,3511,,2015,,natural gas,,,8.4,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12345,,3511,,2015,,natural gas,,,8.4,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12345,,3511,,2015,Boiler #6,natural gas,,,244,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12345,,3511,,2015,Boiler #7,natural gas,,,244,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12309,,2821,,2017,Boiler 1,natural gas,,,32.7,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12309,,2821,,2017,Boiler 2,natural gas,,,32.7,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12309,,2821,,2017,Boiler 3,natural gas,,,32.7,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12309,,2821,,2017,Boiler 4,fuel oil,,,65.6,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12309,,2821,,2017,Boiler 5,natural gas,,,60,MMBtu/hr
+GENERAL ELECTRIC COMPANY,,,12309,,2821,,2017,building 4,natural gas,,,28,MMBtu/hr
+SI GROUP INC,,,12150,,2821,,2016,B0100,natural gas,,,50,MMBtu/hr
+SI GROUP INC,,,12150,,2821,,2016,B0200,natural gas,,,50,MMBtu/hr
+SI GROUP INC,,,12150,,2821,,2016,B0500,natural gas,,,85.9,MMBtu/hr
+INTERNATIONAL PAPER COMPANY,,,12883,,2611,,2017,Power boiler,No.6 fuel oil,,,855,MMBtu/hr
+Finch Paper LLC,,,12801,,2611,,2016,Power boiler,natural gas,,,68,MMBtu/hr
+Finch Paper LLC,,,12801,,2611,,2016,Power boiler,natural gas,,,119,MMBtu/hr
+Finch Paper LLC,,,12801,,2611,,2016,Power boiler,natural gas,,,119,MMBtu/hr
+Finch Paper LLC,,,12801,,2611,,2016,Power boiler,natural gas,,,133,MMBtu/hr
+Finch Paper LLC,,,12801,,2611,,2016,Power boiler,natural gas,,,133,MMBtu/hr
+HOLLINGSWORTH & VOSE CO,,,12834,,2621,,2016,,No.6 oil,,,37.95,MMBtu/hr
+HOLLINGSWORTH & VOSE CO,,,12834,,2621,,2016,,No.6 oil,,,37.95,MMBtu/hr
+HOLLINGSWORTH & VOSE CO,,,12834,,2621,,2017,Hurst,natural gas,,,25,MMBtu/hr
+HOLLINGSWORTH & VOSE CO,,,12834,,2621,,2017,Ames,natural gas,,,16,MMBtu/hr
+COMMONWEALTH PLYWOOD INC,,,12887,,2421,,2015,,wood residue,,,16,MMBtu/hr
+COMMONWEALTH PLYWOOD INC,,,12887,,2421,,2015,,propane,,,20,MMBtu/hr
+KNOWLTON TECHNOLOGIES LLC,,,13601,,2672,,2015,,natural gas,,,53.6,MMBtu/hr
+Arconic Massena LLC,,,13662,,3354,,2013,,natural gas,,,3,MMBtu/hr
+Arconic Massena LLC,,,13662,,3354,,2013,,natural gas,,,3,MMBtu/hr
+ALCOA USA CORP,,,13662,,3334,,2016,,natural gas,,,12.533,MMBtu/hr
+ALCOA USA CORP,,,13662,,3334,,2016,,natural gas,,,12.533,MMBtu/hr
+CRUCIBLE INDUSTRIES LLC,,,13209,,3312,,2016,,natural gas,,,1.7808,MMBtu/hr
+CRUCIBLE INDUSTRIES LLC,,,13209,,3312,,2016,,natural gas,,,1.7808,MMBtu/hr
+CHEMTRADE SOLUTIONS LLC,,,13204,,2812,,2015,,natural gas,,,42,MMBtu/hr
+ANHEUSER-BUSCH LLC,,,13027,,2082,,2015,,natural gas,,,120,MMBtu/hr
+ANHEUSER-BUSCH LLC,,,13027,,2082,,2015,,natural gas,,,120,MMBtu/hr
+ANHEUSER-BUSCH LLC,,,13027,,2082,,2015,,natural gas,,,120,MMBtu/hr
+ANHEUSER-BUSCH LLC,,,13027,,2082,,2015,,natural gas,,,120,MMBtu/hr
+ANHEUSER-BUSCH LLC,,,13027,,2082,,2015,,natural gas,,,29.29,MMBtu/hr
+ANCHOR GLASS CONTAINER CORPORATION,,,14903,,3221,,2019,Boiler #6,natural gas,,,15.1,MMBtu/hr
+UNITED STATES GYPSUM COMPANY,,,14125,,3275,,2019,,exhaust and natural gas,,,65,MMBtu/hr
+SAINT-GOBAIN ADFORS AMERICA INC,,,14411,,2295,,,,natural gas,,,16.75,MMBtu/hr
+SAINT-GOBAIN ADFORS AMERICA INC,,,14411,,2295,,,,natural gas,,,16.75,MMBtu/hr
+U S SALT LLC,,,14891,,2899,,2016,Boiler 1,natural gas,,,103,MMBtu/hr
+U S SALT LLC,,,14891,,2899,,2016,Boiler 7,natural gas,,,72.8,MMBtu/hr
+U S SALT LLC,,,14891,,2899,,2016,Boiler 8,natural gas,,,72.8,MMBtu/hr
+U S SALT LLC,,,14891,,2899,,2016,Boiler 9,natural gas,,,240,MMBtu/hr
+CORNING INCORPORATED,,,14870,,3299,,2012,,natural gas,,,14.6,MMBtu/hr
+CORNING INCORPORATED,,,14870,,3299,,2012,,natural gas,,,14.6,MMBtu/hr
+GUNLOCKE CO INC,,,14572,,2521,,2013,,natural gas,,,21,MMBtu/hr
+GUNLOCKE CO INC,,,14572,,2521,,2013,,natural gas,,,18,MMBtu/hr
+CUMMINS INC,,,14750,,3519,,2015,ES BR001/EP00001,natural gas,,,25.11,MMBtu/hr
+CUMMINS INC,,,14750,,3519,,2015,ES BR002/EP00003,natural gas,,,25.11,MMBtu/hr
+CUMMINS INC,,,14750,,3519,,2015,ES BR003/EP00004,natural gas,,,25.11,MMBtu/hr
+GENERAL MILLS OPERATIONS LLC,,,14203,,2041,,2009,Boiler 1,natural gas,,,66.9,MMBtu/hr
+GENERAL MILLS OPERATIONS LLC,,,14203,,2041,,2009,Boiler 2,natural gas,,,58.8,MMBtu/hr
+GENERAL MILLS OPERATIONS LLC,,,14203,,2041,,2009,waste heat boiler,natural gas,,,53.6,MMBtu/hr
+INTERNATIONAL IMAGING MATERIALS INC,,,14228,,3955,,2016,,natural gas,,,24.5,MMBtu/hr
+INTERNATIONAL IMAGING MATERIALS INC,,,14228,,3955,,2016,,natural gas,,,24.5,MMBtu/hr
+REPUBLIC STEEL,,,14219,,3312,,2018,,natural gas,,,32,MMBtu/hr
+"SUMITOMO RUBBER USA, LLC",,,14150,,3011,,2018,Boiler 1,natural gas,,,59,MMBtu/hr
+"SUMITOMO RUBBER USA, LLC",,,14150,,3011,,2018,Boiler 2,natural gas,,,59,MMBtu/hr
+"SUMITOMO RUBBER USA, LLC",,,14150,,3011,,2018,Boiler 5,natural gas,,,60,MMBtu/hr
+"SUMITOMO RUBBER USA, LLC",,,14150,,3011,,2018,Boiler 6,natural gas,,,60,MMBtu/hr
+"SUMITOMO RUBBER USA, LLC",,,14150,,3011,,2018,Boiler 7,natural gas,,,29.3,MMBtu/hr
+"DUPONT SPECIALTY PRODUCTS USA, LLC",,,14207,,3081,,2015,,,,,3,MMBtu/hr
+GENERAL MOTORS LLC,,,14207,,3714,,2016,,natural gas,,,10.5,MMBtu/hr
+GENERAL MOTORS LLC,,,14207,,3714,,2016,,natural gas,,,10.5,MMBtu/hr
+3M CO,,,14150,,2821,,2007,,No.2 oil,,,60.4,MMBtu/hr
+3M CO,,,14150,,2821,,2007,,natural gas,,,63.2,MMBtu/hr
+MARCAL MANUFACTURING LLC,,Bergen,08625,322291,,,,Boiler 12,No.2 fuel oil,,,114,mmBtu/hr
+MARCAL MANUFACTURING LLC,,,08625,322291,,,,Boiler 13,No.2 fuel oil,,,147,mmBtu/hr
+MARCAL MANUFACTURING LLC,,,08625,322291,,,,OS5,No.2 fuel oil,,,16.75,mmBtu/hr
+MARCAL MANUFACTURING LLC,,,08625,322291,,,,OS6,No.2 fuel oil,,,16.75,mmBtu/hr
+MARCAL MANUFACTURING LLC,,,08625,322291,,,,OS7,No.2 fuel oil,,,16.75,mmBtu/hr
+MARCAL MANUFACTURING LLC,,,08625,322291,,,,OS8,No.2 fuel oil,,,16.75,mmBtu/hr
+MONDELEZ GLOBAL LLC,,,07410,311821,,,,EU10,Natural gas,,,21.68,mmBtu/hr
+MONDELEZ GLOBAL LLC,,,07410,311821,,,,EU11,Natural gas,,,21.68,mmBtu/hr
+"PENN COLOR, INC.",,,07407 ,325110,,,,U1,Natural gas,,,1.675,mmBtu/hr
+"PENN COLOR, INC.",,,07407 ,325110,,,,Steam boiler,Natural gas,,,1.05,mmBtu/hr
+J JOSEPHSON INC,,,07606,323111,,,2003,Boiler 3,Natural gas,,,6.13,mmBtu/hr
+"PB NUTCLIF MASTER, LLC",,,07003,325412,,,2020,B77,,,,1.16,mmBtu/hr
+"PB NUTCLIF MASTER, LLC",,,07003,325412,,,2020,BHH-65,No.2 fuel oil,,,89.8,mmBtu/hr
+"PB NUTCLIF MASTER, LLC",,,07003,325412,,,2020,BHH-105,No.2 fuel oil,,,96.8,mmBtu/hr
+OWENS CORNING KEARNY PLANT,,,07032,324122,,,2020,,Natural gas,,,9.18,mmBtu/hr
+LANXESS SOLUTIONS US INC.,,,08861,325211,,,2017,U5 boiler B2,Natural gas,,,48,mmBtu/hr
+LANXESS SOLUTIONS US INC.,,,08861,325211,,,2017,B3,Natural gas,,,60.7,mmBtu/hr
+DIVISION OF BRISTOL-MYERS SQUIBB COMPANY,,,08543,325412,,,2018,OS4606 Boiler No. 1,Natural gas,,,114,mmBtu/hr
+DIVISION OF BRISTOL-MYERS SQUIBB COMPANY,,,08543,325412,,,2018,OS4608 Boiler No. 2,Natural gas,,,114,mmBtu/hr
+DIVISION OF BRISTOL-MYERS SQUIBB COMPANY,,,08543,325412,,,2018,OS4607 Boiler 1,Distillate fuel oil,,,109,mmBtu/hr
+DIVISION OF BRISTOL-MYERS SQUIBB COMPANY,,,08543,325412,,,2018,OS4609 Boiler No2,Distillate fuel oil,,,114,mmBtu/hr
+SCHWEITZER MAUDUIT INTERNATIONAL INC,,,08884,322121,,,2020,OS2 Boiler 6,No.2 fuel oil,,,98.4,mmBtu/hr
+SCHWEITZER MAUDUIT INTERNATIONAL INC,,,08884,322121,,,2020,Boiler 4,No.2 fuel oil,,,54.6,mmBtu/hr
+GENTEK BUILDING PRODUCTS INC,,,07001,332812,,,2016,Office heater,,,,1.2,mmBtu/hr
+NEW WINCUP HOLDINGS INC,,,08840,326140,,,2020,OS1 boiler 1,Natural gas,,,25,mmBtu/hr
+NEW WINCUP HOLDINGS INC,,,08840,326140,,,2020,OS2 boiler 2,Natural gas,,,25,mmBtu/hr
+NEW WINCUP HOLDINGS INC,,,08842,326140,,,2020,OS8 Boiler 1,Fuel oil/Kerosene blend,,,25,mmBtu/hr
+NEW WINCUP HOLDINGS INC,,,08843,326140,,,2020,OS8 Boiler 2,Fuel oil/Kerosene blend,,,25,mmBtu/hr
+NEW WINCUP HOLDINGS INC,,,08844,326140,,,2020,OS9 boiler 2,No.2 fuel oil/Kerosene blend,,,25,mmBtu/hr
+LANXESS SOLUTIONS US INC,,,08863,325199,,,2020,Boiler 7,Natural gas,,,97.7,mmBtu/hr
+LANXESS SOLUTIONS US INC,,,08863,325199,,,2020,Boiler 8,Natural gas,,,97.7,mmBtu/hr
+AMES ADVANCED MATERIALS CORP,,,07080,331492,,,2020,OS1 IBW,Natural gas,,,4.2,mmBtu/hr
+AMES ADVANCED MATERIALS CORP,,,07080,331492,,,2020,Superior Boiler,Natural gas,,,1.67,mmBtu/hr
+AMES ADVANCED MATERIALS CORP,,,07080,331492,,,2020,F Blr 1,Natural gas,,,2.4,mmBtu/hr
+AMES ADVANCED MATERIALS CORP,,,07080,331492,,,2020,F Blr 1,Natural gas,,,2.4,mmBtu/hr
+EQUISTAR CHEMICALS LP,,,08817,325188,,,2020,U1 boiler1,Natural gas,,,19,mmBtu/hr
+EQUISTAR CHEMICALS LP,,,08817,325188,,,2020,U1 boiler2,Natural gas,,,19,mmBtu/hr
+EQUISTAR CHEMICALS LP,,,08817,325188,,,2020,U10001 Boiler 3,Natural gas,,,31.51,mmBtu/hr
+HANSSEM CORP,,,07080,337110,,,2017,,Natural gas,,,1.26,mmBtu/hr
+NESTLE USA INC BEVERAGE DIVISION,,,07728,311920,,,2020,Boiler 1,Natural gas,,,158.08,mmBtu/hr
+NESTLE USA INC BEVERAGE DIVISION,,,07728,311920,,,2020,Boiler 3,Natural gas,,,157.7,mmBtu/hr
+NESTLE USA INC BEVERAGE DIVISION,,,07728,311920,,,2020,New boiler 2,Natural gas,,,42.9,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,Building 100 boiler,Natural gas,,,12.6,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,Building 434 boiler,Natural gas,,,8.4,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,Main Boiler 3,Natural gas,,,60.1,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,New boiler 1,Natural gas,,,1.44,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,New boiler 2,Natural gas,,,1.44,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,New boiler 3,Natural gas,,,1.44,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,Main boiler 1,Natural gas,,,94,mmBtu/hr
+NOVARTIS PHARMACEUTICALS CORP,,,07936,325412,,,2020,Main boiler 2,Natural gas,,,94,mmBtu/hr
+CROWN ROLL LEAF INC,,,07503,332999,,,2017,OS601 Boiler 1,Natural gas,,,2.219,mmBtu/hr
+CROWN ROLL LEAF INC,,,07503,332999,,,2017,OS601 Boiler 2,Natural gas,,,2.049,mmBtu/hr
+CROWN ROLL LEAF INC,,,07505,332999,,,2017,OS601 Boiler 3,Natural gas,,,2.049,mmBtu/hr
+LAMART CORP,,,07015,322220,,,2020,IS6,Natural gas,,,0.146,mmBtu/hr
+LAMART CORP,,,07015,322220,,,2020,IS11-1,Natural gas,,,0.154,mmBtu/hr
+LAMART CORP,,,07015,322220,,,2020,IS11-2,Natural gas,,,0.154,mmBtu/hr
+TEKNI-PLEX INC,,,08876,326140,,,2018,IS1,Natural gas,,,0.8,mmBtu/hr
+TEKNI-PLEX INC,,,08876,326140,,,2018,U19,Natural gas,,,1.487,mmBtu/hr
+AGFA CORP,,,07407,325992,,,2018,Production,Natural gas,,,10.461,mmBtu/hr
+AGFA CORP,,,07407,325992,,,2018,OS1,Natural gas,,,1.686,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,IS16,Natural gas,,,0.5,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,IS17,Natural gas,,,0.5,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,BB36-1,Natural gas,,,24.5,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,BB36-2,Natural gas,,,24.5,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,BB36-3,Natural gas,,,3.5,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,BB1181,Natural gas,,,1.568,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,22Bryan steam llc,,,,2.7,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,50-B-9520,Natural gas,,,68,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,50-B-9522,Natural gas,,,68,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,50-B-9524,Natural gas,,,68,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,LPW,Natural gas,,,1.2,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,HHW1,Natural gas,,,2.5,mmBtu/hr
+IMCLONE SYSTEMS LLC,,,08876,325414,,,2019,HHW2,Natural gas,,,2.5,mmBtu/hr
+MERCK SHARP & DOHME CORP - RAHWAY NJ,,,07065,325411,,,2019,Boiler 3,Natural gas/No.2 fuel oil,,,99.5,mmBtu/hr
+MERCK SHARP & DOHME CORP - RAHWAY NJ,,,07065,325411,,,2019,Boiler 5,Natural gas/No.2 fuel oil,,,99.5,mmBtu/hr
+MERCK SHARP & DOHME CORP - RAHWAY NJ,,,07065,325411,,,2019,Boiler 9,Natural gas/No.2 fuel oil,,,99.5,mmBtu/hr
+MERCK SHARP & DOHME CORP - RAHWAY NJ,,,07065,325411,,,2019,Boiler 10,Natural gas/No.2 fuel oil,,,249,mmBtu/hr
+MERCK SHARP & DOHME CORP - RAHWAY NJ,,,07065,325411,,,2019,Boiler 11,Natural gas/No.2 fuel oil,,,249,mmBtu/hr
+MERCK SHARP & DOHME CORP - RAHWAY NJ,,,07065,325411,,,2019,Boiler 12,Natural gas/No.2 fuel oil,,,249,mmBtu/hr
+PHILLIPS 66 COMPANY,,,07036,324110,,,2018,F108 reboiler,Refinery fuel gas,,,114,mmBtu/hr
+PHILLIPS 66 COMPANY,,,07036,324110,,,2018,FCCU-CD1,Refinery fuel gas,,,533,mmBtu/hr
+PHILLIPS 66 COMPANY,,,07036,324110,,,2018,FCCU-CD2,Refinery fuel gas,,,533,mmBtu/hr
+PHILLIPS 66 COMPANY,,,07036,324110,,,2018,COB 3,Refinery fuel gas,,,533,mmBtu/hr
+PHILLIPS 66 COMPANY,,,07036,324110,,,2018,COB 2,Refinery fuel gas,,,533,mmBtu/hr
+Viking Yacht Co,,,08224,336612,,,2018,NG-Blr- E101,Natural gas,,,4.83,mmBtu/hr
+Viking Yacht Co,,,08224,336612,,,2018,NG - Boiler,Natural gas,,,4.11,mmBtu/hr
+Viking Yacht Co,,,08224,336612,,,2018,Bld3,Natural gas,,,5.5,mmBtu/hr
+Viking Yacht Co,,,08224,336612,,,2018,NG-Blr- E103,Natural gas,,,4.84,mmBtu/hr
+Viking Yacht Co,,,08224,336612,,,2018,NG-Blr- E104,Natural gas,,,4.845,mmBtu/hr
+175 DEROUSSE LLC,,,08011,322130,,,2011,Boiler 7,Natural gas/No.2 fuel oil,,,85,mmBtu/hr
+176 DEROUSSE LLC,,,08012,322130,,,2017,Boiler 8,Natural gas/No.2 fuel oil,,,85,mmBtu/hr
+ALUMINUM SHAPES LLC,,,08110,331316,,,2017,Delair-1,Natural gas,,,6.28,mmBtu/hr
+ALUMINUM SHAPES LLC,,,08110,331316,,,2017,Delair-2,Natural gas,,,6.28,mmBtu/hr
+ALUMINUM SHAPES LLC,,,08110,331316,,,2017,1701-05A,Natural gas,,,6.28,mmBtu/hr
+ALUMINUM SHAPES LLC,,,08110,331316,,,2017,1701-05B,Natural gas,,,6.28,mmBtu/hr
+Georgia-Pacific Gypsum LLC,,,08103,327420,,,2020,OB1,Natural gas,,,2.5,mmBtu/hr
+Polymer Additives Inc,,,08014,325199,,,2020,U7-1,Natural gas/No.2 fuel oil,,,44,mmBtu/hr
+Polymer Additives Inc,,,08015,325199,,,2020,U7-2,Natural gas/No.2 fuel oil,,,49,mmBtu/hr
+"Johnson Matthey, Inc",,,08066,331491,,,2020,OS6 E29002 ,No.2 Fuel oil,,,48.6,mmBtu/hr
+"Johnson Matthey, Inc",,,08067,331491,,,2020,OS9 E29005,Natural gas,,,24.494,mmBtu/hr
+"Aleris Rolled Products, Inc",,,08312,331315,,,2020,,Natural gas,,,1.7,mmBtu/hr
+"Aleris Rolled Products, Inc",,,08313,331315,,,2020,,Natural gas,,,3,mmBtu/hr
+"Aleris Rolled Products, Inc",,,08314,331315,,,2020,,Natural gas,,,3,mmBtu/hr
+"Aleris Rolled Products, Inc",,,08315,331315,,,2020,,Natural gas,,,1.674,mmBtu/hr
+"Aleris Rolled Products, Inc",,,08316,331315,,,2020,,Natural gas,,,5,mmBtu/hr
+SOLVAY SPECIALTY POLYMERS USA LLC,,,08086,325211,,,2019,HT1,Natural gas,,,60,mmBtu/hr
+SOLVAY SPECIALTY POLYMERS USA LLC,,,08087,325211,,,2019,HT2,Natural gas,,,60,mmBtu/hr
+Paulsboro Refining Company LLC,,,08066,324110,,,2020,CCR area reboiler 1,,,,50,mmBtu/hr
+Paulsboro Refining Company LLC,,,08067,324110,,,2020,CCR area reboiler 2,,,,27,mmBtu/hr
+Paulsboro Refining Company LLC,,,08068,324110,,,2020,Boiler2C,Natural gas/refinery fuel gas,,,484,mmBtu/hr
+Paulsboro Refining Company LLC,,,08069,324110,,,2020,Boiler3A,Natural gas/refinery fuel gas,,,90,mmBtu/hr
+Paulsboro Refining Company LLC,,,08070,324110,,,2020,Boiler3B,Natural gas/refinery fuel gas,,,90,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,,Natural gas,,,3.35,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,,Natural gas,,,3.35,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,,Natural gas and light distillate fuel oil,,,63.3,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,,Natural gas and light distillate fuel oil,,,63.3,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,B27-B1,Natural gas/light distillate fuel oil,,,6,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,B27-B2,Natural gas/light distillate fuel oil,,,4,mmBtu/hr
+Bristol-Myers Squibb Company,,,08534,325412,,,2019,B27-B3,Natural gas/light distillate fuel oil,,,4,mmBtu/hr
+CONGOLEUM CORP,,,08619,326192,,,2019,NJ ST # 065,Natural gas/No.2 fuel oil,,,15,mmBtu/hr
+CONGOLEUM CORP,,,08619,326192,,,2019,NJ ST # 067,Natural gas/No.2 fuel oil,,,15,mmBtu/hr
+"DuPont Specialty Products USA, LLC",,,08023,325199,,,2020,H-400,Natural gas,,,29.3,mmBtu/hr
+"DuPont Specialty Products USA, LLC",,,08023,325199,,,2020,H-300,Natural gas,,,17.4,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,,Natural gas,,,0.3,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,,Natural gas,,,0.3,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,,No.2 fuel oil,,,1,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,Cafeteria boiler,Natural gas,,,1.227,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,U38,Natural gas,,,1.5,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,U131-1,Natural gas,,,20.17,mmBtu/hr
+"Mannington Mills, Inc",,,08079,326192,,,2020,U131-2,Natural gas,,,32.7,mmBtu/hr
+Mexichem - Specialty Resins Inc,,,08067,325211,,,2020,Boiler 1,Natural gas/kerosene,,,73.3,mmBtu/hr
+Mexichem - Specialty Resins Inc,,,08068,325211,,,2020,Boiler 2,Natural gas/kerosene,,,98.1,mmBtu/hr
+Nipro PharmaPackaging Americas Corp.,,,08332,327212,,,2007,,Natural gas,,,6.3,mmBtu/hr
+AVANTOR PERFORMANCE MATERIALS,,,08865,325180,,,2019,Boiler 1,Natural gas/No.2 fuel oil,,,45,mmBtu/hr
+AVANTOR PERFORMANCE MATERIALS,,,08865,325180,,,2019,Boiler 2,Natural gas/No.2 fuel oil,,,32.7,mmBtu/hr
+AVANTOR PERFORMANCE MATERIALS,,,08865,325180,,,2019,Boiler 3,Natural gas/No.2 fuel oil,,,45,mmBtu/hr
+"Mars Wrigley Confectionery US, LLC",,,07840,311352,,,2019,Boiler 1,Natural gas,,,1.36,mmBtu/hr
+"Mars Wrigley Confectionery US, LLC",,,07840,311352,,,2019,Boiler 2,Natural gas,,,1.36,mmBtu/hr
+"Mars Wrigley Confectionery US, LLC",,,07840,311352,,,2019,Boiler 3,Natural gas,,,2.4,mmBtu/hr
+"Mars Wrigley Confectionery US, LLC",,,07840,311352,,,2019,High pressure boiler 3,Natural gas,,,45,mmBtu/hr
+"Mars Wrigley Confectionery US, LLC",,,07840,311352,,,2019,High pressure boiler 4,Natural gas,,,45,mmBtu/hr
+DSM NUTRITIONAL PRODUCTS LLC,,,07823,325411,,,2019,TMP BLR: NG,Natural gas,,,94.7,mmBtu/hr
+DSM NUTRITIONAL PRODUCTS LLC,,,07823,325411,,,2019,Boiler 2,Natural gas,,,231,mmBtu/hr
+DSM NUTRITIONAL PRODUCTS LLC,,,07823,325411,,,2019,Boiler 4,Natural gas,,,204,mmBtu/hr
