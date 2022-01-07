@@ -1,13 +1,13 @@
-## Electrification-of-Boilers
+# Electrification-of-Boilers
 
 This repository is for the code and data used in our project evaluating the electrification of industrial boilers in the United States.
 
-# Project objectives: 
+## Project objectives: 
 1) Develop an up-to-date inventory of industrial boilers used in US manufacturing industries
 2) Characterize industrial boilers by boiler capacities, fuel types, 3-digit NAICS subsectors, and counties in the US
 3) Calculate the electricity requirement for electric boilers to replace steam demand from conventional fossil fuel boilers and the resulting fuel use and GHG emissions from electrification based on regional electric grid mixes for the current grid and future scenarios
 
-# Overview of directories
+## Overview of directories
 - [/GHGRP/](https://github.com/carriescho/Electrification-of-Boilers/tree/master/GHGRP) contains the code for assembling industrial boiler data from the [EPA's GHGRP](https://www.epa.gov/ghgreporting/find-and-use-ghgrp-data) database.
 - [/MACT/](https://github.com/carriescho/Electrification-of-Boilers/tree/master/MACT) contains the code for assembling industrial boiler data from the [EPA's MACT](https://www.epa.gov/stationary-sources-air-pollution/industrial-commercial-and-institutional-boilers-and-process-heaters) database.
 - [/NEI/](https://github.com/carriescho/Electrification-of-Boilers/tree/master/NEI) contains the code for assembling industrial boiler data from the [EPA's NEI](https://www.epa.gov/air-emissions-inventories/2017-national-emissions-inventory-nei-data) database.
