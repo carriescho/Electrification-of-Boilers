@@ -329,6 +329,13 @@ est_blrs_fuel_total.drop(columns=['est_count'],inplace=True)
 # combine inventory of reported units with estimated units for total expanded inventory
 expanded_inv = inv.append(est_blrs_fuel_total,ignore_index=True)
 
+# for columns with strings, fill null values with 'na' to standardize data type in columns
+expanded_inv[['state','county','company_name','site_name',
+              'zip_code','UNIT_TYPE','TIER','FUEL_UNIT',
+              'ENERGY_COM_MMBtu','ENERGY_MMBtu_hr']] = expanded_inv[['state','county','company_name','site_name',
+                                                                     'zip_code','UNIT_TYPE','TIER','FUEL_UNIT',
+                                                                     'ENERGY_COM_MMBtu','ENERGY_MMBtu_hr']].fillna('na')
+
 # save to file
 expanded_inv.to_csv('total_boiler_inventory.csv',index=False)
 
