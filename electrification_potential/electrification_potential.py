@@ -317,7 +317,7 @@ def get_ghg_emissions(elec_grid_fuels_df, grid_scenario):
         perc_chg= {'Coal':0,'Natural_gas':0,'Oil':0,'Biomass':0}
         
     elif grid_scenario == 'reference':
-        perc_chg = {'Coal':-0.25,'Natural_gas':0.22,'Oil':-0.65}
+        perc_chg = {'Coal':-0.40,'Natural_gas':0.10,'Oil':-0.80}
     
     elif grid_scenario == 'high_renewables':
         perc_chg = {'Coal':-0.40,'Natural_gas':-0.3,'Oil':-0.8} #-0.40,-0.30,-0.80
